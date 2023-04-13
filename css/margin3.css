@@ -1,0 +1,24 @@
+.nav{
+    margin: 25px 50px 75px 100px;
+    border: 2px solid rgb(231, 115, 193);
+    background-color: rgb(248, 190, 231);
+}
+
+.section{
+    margin: 25px 50px 75px;
+    border: 2px solid rgb(192, 130, 228);;
+    background-color: rgb(219, 189, 243);
+}
+
+.article{
+    margin: 25px 50px;
+    border: 2px solid rgb(117, 201, 226);
+    background-color: rgb(180, 225, 247);
+}
+
+.footer{
+    border: 3px solid rgb(231, 115, 193);
+    width: 300px;
+    margin: auto;
+    background-color: rgb(248, 190, 231);
+}
